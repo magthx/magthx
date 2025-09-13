@@ -1,10 +1,10 @@
-<a href="https://www.linkedin.com/in/dylan-magall%C3%B3n-565bb5326/">
+<a href="https://www.linkedin.com/in/dylan-magall%C3%B3n-565bb5326/" target="_blank">
   <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://www.instagram.com/dylanthx">
-  <img alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+<a href="https://www.instagram.com/dylanthx" target="_blank">
+  <img alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
 </a>
-<a href="https://github.com/dylanthx">
+<a href="https://github.com/dylanthx" target="_blank">
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
 
