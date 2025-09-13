@@ -1,10 +1,8 @@
-<!-- Header con tu nombre y descripción -->
 <h1 align="center">👋 Hola, soy Dylan</h1>
-<p align="center">Ingeniero de Software en formación | Apasionado por el desarrollo y la tecnología</p>
+<p align="center">Ingeniero de Software en formación</p>
 
 ---
 
-<!-- Redes sociales centradas -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dylan-magall%C3%B3n-565bb5326/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -19,7 +17,6 @@
 
 ---
 
-<!-- GIF a la derecha -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 ### 🛠️ Lenguajes y Herramientas
