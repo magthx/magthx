@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/dylanthx">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/dylanthx">
+  <a href="https://github.com/magthx">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" />
   </a>
 </p>
