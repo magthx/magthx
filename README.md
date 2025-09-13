@@ -1,10 +1,13 @@
 <a href="https://www.linkedin.com/in/dylan-magall%C3%B3n-565bb5326/">
-  <img align="left" alt="LinkedIn" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
+  <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://www.instagram.com/dylanthx">
+  <img alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
+</a>
+<a href="https://github.com/dylanthx">
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </a>
 
-<a href="https://www.instagram.com/dylanthx">
-  <img align="left" alt="Instagram" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
-</a>
 
 
 <br />
@@ -31,7 +34,3 @@
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=)]()
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=)]()
-
-<p align='center'>
-  <img src="" alt="visitor badge" />
-</p>
