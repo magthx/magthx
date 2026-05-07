@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Dylan 👋</h1>
+  <h3>Founder @ Kivo Studio</h3>
   <p><i>Software Engineer in Training | Full Stack Developer passionate about building modern, high-performance web applications.</i></p>
 
   <p align="center">
@@ -34,6 +35,28 @@ My primary focus is to architect and develop scalable, high-value software solut
 
 ---
 
+### 🏢 Current Venture: **Kivo Studio**
+
+<table border="0">
+  <tr>
+    <td width="200">
+      <img src="./kivo_logo.png" width="150" alt="Kivo Studio Logo" />
+    </td>
+    <td>
+      <strong><a href="https://kivostudio.mx">Kivo Studio</a></strong> is where I turn business challenges into digital reality. 
+      Through this studio, I focus on:
+      <ul>
+        <li>Developing high-performance web applications.</li>
+        <li>Automating business workflows with modern tech stacks.</li>
+        <li>Helping startups and local businesses scale through software.</li>
+      </ul>
+      <a href="https://kivostudio.mx">🌐 kivostudio.mx</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -48,5 +71,5 @@ My primary focus is to architect and develop scalable, high-value software solut
 ---
 
 <div align="center">
-  <sub>Built with precision by <b>Dylan (magthx)</b></sub>
+  <sub>Built with precision by <b>Dylan Magallón (magthx)</b></sub>
 </div>
