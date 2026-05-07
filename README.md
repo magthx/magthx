@@ -50,7 +50,7 @@ My primary focus is to architect and develop scalable, high-value software solut
         <li>Automating business workflows with modern tech stacks.</li>
         <li>Helping startups and local businesses scale through software.</li>
       </ul>
-      <a href="https://kivostudio.mx">🌐 kivostudio.mx</a>
+      <a href="https://kivostudio.mx">kivostudio.mx</a>
     </td>
   </tr>
 </table>
