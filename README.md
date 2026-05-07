@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/dylan-magall%C3%B3n-565bb5326/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:magallondylan@gmail.com">
+    <a href="mailto:dylanmagallon22@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -37,28 +37,13 @@ My primary focus is to architect and develop scalable, high-value software solut
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,astro,nodejs,html,css,git,github,vscode,ps" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,astro,nodejs,html,css,git,github" />
 </div>
 
 #### 💻 Specialized in:
 - **Frontend Development:** React, Astro, Tailwind CSS, JavaScript (ES6+).
 - **Backend Development:** Node.js, Express, RESTful APIs.
-- **Tools & Workflow:** Git, GitHub, VS Code, Design (Photoshop).
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magthx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magthx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magthx&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
-</div>
+- **Tools & Workflow:** Git, GitHub.
 
 ---
 
